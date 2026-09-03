@@ -1,6 +1,6 @@
 cask "rubarb" do
-  version "4.1.2"
-  sha256 "985b57d959d28c421cda53548f80ca72fb3cb2217d4560c84565d98523b3e01c"
+  version "4.1.4"
+  sha256 "7f169c5b279866a72401e48d14d1b3068b1fe78bf8776e296217ec649c60e4e5"
 
   url "https://rubarb.bar/rubarb.bar-#{version}.zip"
   name "Rubarb"
